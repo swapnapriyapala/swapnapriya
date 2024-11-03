@@ -41,3 +41,9 @@
 | Github | Git | AWS | VS Code | ORACLE | Json | Figma | 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" title="github" alt="github" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSC" alt="VSC" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="ORACLE" alt="ORACLE" width="55" height="55"/>|  <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" title="Json" alt="Json" width="55" height="55"/>| <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" title="Figma" alt="Figma" width="55" height="55"/>| 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnapriyapala&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="swapnapriyapala" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnapriyapala&show_icons=true&locale=en&theme=tokyonight" alt="swapnapriyapala" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnapriyapala&&theme=tokyonight" alt="swapnapriyapala" /></p>
